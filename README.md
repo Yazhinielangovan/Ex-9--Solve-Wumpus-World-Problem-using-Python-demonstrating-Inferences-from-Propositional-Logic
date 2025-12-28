@@ -145,7 +145,7 @@ while(player):
 
 ## OUTPUT
 
-![439499566-74590332-6d8c-4623-92f1-08397aa1e854](https://github.com/user-attachments/assets/fb981510-0c4c-4e9c-b7c5-9dcbf9863e50)
+<img width="461" height="724" alt="image" src="https://github.com/user-attachments/assets/70cfbf7b-2164-426d-99a6-1dcc2d253e73" />
 
 ## RESULT
 
